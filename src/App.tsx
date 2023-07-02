@@ -11,8 +11,8 @@ function App() {
       {/* <Parent /> */}
       {/* <List /> */}
       {/* <Profile /> */}
-      <ParentMemo />
-      {/* <Game /> */}
+      {/* <ParentMemo /> */}
+      <Game />
     </>
   );
 }
